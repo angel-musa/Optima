@@ -1,0 +1,10 @@
+activate
+activate.bat
+Activate.ps1
+deactivate.bat
+
+*.exe
+
+pwiz.py
+
+__pycache__/
